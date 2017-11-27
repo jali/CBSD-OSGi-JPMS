@@ -1,0 +1,3 @@
+module examplemod {
+	exports example;
+}
